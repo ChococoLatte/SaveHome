@@ -13,7 +13,7 @@
 ### 1). 메인페이지
 ![image](https://user-images.githubusercontent.com/62333600/223703772-237424a9-71cf-4c69-b1ba-a5d7042b9f39.png)
 
-### 2). 회원가입/ 로그인
+### 2). 회원가입/ 로그인/ 로그아웃
 ![image](https://user-images.githubusercontent.com/62333600/223703831-0ddde04a-3d88-4861-9f54-dc85f5d8f815.png)
 
 ### 3). 비밀번호 수정
